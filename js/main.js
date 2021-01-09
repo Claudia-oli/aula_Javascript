@@ -3,7 +3,11 @@ function botão (){
     //console.log(document.getElementById("agradecimento"))
     //alert("Valeuuu!");
 }
- 
+
+function botão (){
+    document.getElementById("agradecimento").innerHTML = "<b>Se tá doidoooooo<b>";
+}
+    
 function redirecionar(){
     window.open("https://www.gft.com/br/pt/index/");
     //window.location.href = "https://www.gft.com/br/pt/index/";
