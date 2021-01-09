@@ -3,7 +3,7 @@ function botão (){
     //console.log(document.getElementById("agradecimento"))
     //alert("Valeuuu!");
 }
-
+ 
 function redirecionar(){
     window.open("https://www.gft.com/br/pt/index/");
     //window.location.href = "https://www.gft.com/br/pt/index/";
